@@ -1,0 +1,3 @@
+﻿  calculatorqt.cpp
+F:\calculatorqt\calculatorqt\calculatorqt.cpp(8,9): warning C4215: nonstandard extension used: long float
+  calculatorqt.vcxproj -> F:\calculatorqt\x64\Debug\calculatorqt.exe
